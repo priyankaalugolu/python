@@ -1,2 +1,2 @@
 # python
-python repo
+python repo for some programming 
